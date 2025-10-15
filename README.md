@@ -36,3 +36,8 @@ It uses NLP and structured data to uncover patterns in fear severity, treatment 
 
 ## Author
 **Ibtisam Alghwainem**  
+
+📬 **Contact**  
+- GitHub: [github.com/ibtisamalghwainem](https://github.com/ibtisamalghwainem)  
+- LinkedIn: [linkedin.com/in/ibtisamalghwainem](https://linkedin.com/in/ibtisamalghwainem)  
+- Email: ibtisamalghwainem@gmail.com
