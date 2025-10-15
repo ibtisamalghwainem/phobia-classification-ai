@@ -1,6 +1,5 @@
-# phobia-classification-ai
+# Phobia-Classification-ai
 AI-powered phobia classification using NLP and behavioral pattern analysis.
-# Phobia Classification AI
 
 ## Overview
 This project builds a machine learning model to classify types of phobia based on behavioral and demographic features.  
